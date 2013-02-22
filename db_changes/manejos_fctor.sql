@@ -1,0 +1,1 @@
+ALTER TABLE `manejos_categorias` ADD `tipo_basico` INT NULL AFTER `categoria` ;
